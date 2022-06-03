@@ -1,4 +1,4 @@
-## Welcome to P1
+## Welcome to Porject 1
 
 ### Learning Objectives
 
