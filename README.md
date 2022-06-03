@@ -18,4 +18,4 @@ Project elements:
 
 ### Code
 
-Please click the "View on Github" buttom to see the project code
+Please click the **"View on Github"** buttom to see the project code
