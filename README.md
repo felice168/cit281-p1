@@ -16,3 +16,6 @@ Project elements:
 - Use the ping command, and practice using the break keyboard sequence
 - Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
+### Code
+
+Please click the "View on Github" buttom to see the project code
